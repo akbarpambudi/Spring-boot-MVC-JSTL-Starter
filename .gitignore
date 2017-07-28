@@ -1,0 +1,13 @@
+.idea
+logs*
+target/*
+*/bin
+*/logs/*
+*.iml
+.settings*
+.classpath
+.project
+.springBeans
+*.jasper
+src/main/resources/public/static/node_modules/*
+/target/
